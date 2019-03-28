@@ -77,10 +77,27 @@ x_train, x_test, y_train, y_test = clf.train_test_split(data_set,0.90, random_st
 
 ### Training Method
 
+
+
 <br/>
 <br/>
 
 ### Prediction Method
+
+
+
+
+<br/>
+<br/>
+
+### Evaluation Method
+
+
+
+<br/>
+<br/>
+
+### Micro/Macro F-scores
 
 
 
