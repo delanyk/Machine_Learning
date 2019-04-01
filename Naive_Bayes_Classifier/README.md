@@ -1,6 +1,6 @@
 # Naive Bayes Classifier
 
-This project was to code a Naive Bayes classifier from scratch. The algorithm and implemenation style was of individual design. It was designed as a binary text classifier, with the possibility of it being performing multinominal classification.  To evaluate this classifier, it was trained on game reviews in German with for sentimate analysis. The classifier evaluates whether the review was positive or negative. The 15 most highest weighted terms for each respective class were also generated beneath the classifcation and evaluation. 
+This project was to code a Naive Bayes classifier from scratch. The algorithm and implementation style was of individual design. It was designed as a binary text classifier, with the possibility of it being performing multinominal classification. To evaluate this classifier, it was trained on game reviews in German with for sentiment analysis. The classifier evaluates whether the review was positive or negative. The 15 most highest weighted terms for each respective class were also generated beneath the classification and evaluation.
 <br/>
 <br/>
 
